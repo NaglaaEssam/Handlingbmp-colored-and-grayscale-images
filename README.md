@@ -1,0 +1,1 @@
+# Handlingbmp-colored-and-grayscale-images
